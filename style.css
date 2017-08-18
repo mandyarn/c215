@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#artist {
+    position: absolute;
+    
+    
+}
+
+#about {
+
+
+
+}
+
+.header {
+    background-image: url(http://c1.staticflickr.com/5/4074/4830553200_401960d166_b.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+img #resize {
+    max-width: 100%;
+    height: auto;
+   
+}
+
+/*
+.media img {
+    @media screen and (orientation: portrait) {
+        img { max-width: 90%; }
+      }
+      
+    @media screen and (orientation: landscape) {
+        img { max-height: 90%; }
+      }
+}
+*/
